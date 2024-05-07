@@ -1,0 +1,8 @@
+Processing Date: 05-May-2023
+Top Index Reference File: C:\TDD\GitHub\TDD-Alignment\IDX_top_08102021.mat
+Bottom Index Reference File: C:\TDD\GitHub\TDD-Alignment\IDX_bot_08102021.mat
+Background Offset Image: D:\TDD\05052023_targets2\CAL\DARK(00000).tif
+Normalization Bright Image: D:\TDD\05052023_targets2\CAL\LIGHT(00000).tif
+Image Formation Method: 4x4 Sum
+Processing Time (s): 33.5271
+App Version: 2.2
